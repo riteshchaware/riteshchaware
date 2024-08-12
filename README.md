@@ -1,5 +1,4 @@
-<img src="https://github.com/riteshchaware/riteshchaware/blob/e645e22a7ae914cd4e341db0c4b2c5d91874479b/intro.gif" alt="👋 Hi there! I'm Ritesh Chaware" title="👋 Hi there! I'm Ritesh Chaware"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=18&pause=1000&color=F5004F&center=true&multiline=true&width=435&lines=Hi!%F0%9F%91%8B+I+am+Ritesh+Chaware;An+Astrobiologist+in+making+%F0%9F%91%BD)](https://git.io/typing-svg)
 <!--
 **riteshchaware/riteshchaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
