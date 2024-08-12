@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/riteshchaware/riteshchaware/master/intro.gif" alt="👋 Hi there! I'm Ritesh Chaware" title="👋 Hi there! I'm Ritesh Chaware"/>
+<img src="https://github.com/riteshchaware/riteshchaware/blob/e645e22a7ae914cd4e341db0c4b2c5d91874479b/intro.gif" alt="👋 Hi there! I'm Ritesh Chaware" title="👋 Hi there! I'm Ritesh Chaware"/>
 
 <!--
 **riteshchaware/riteshchaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
